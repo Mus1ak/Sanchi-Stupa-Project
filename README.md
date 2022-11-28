@@ -1,2 +1,2 @@
 # Sanchi-Stupa-Project
-created During class of HTML5
+created in class of HTML5
